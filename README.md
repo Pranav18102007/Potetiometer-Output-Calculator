@@ -20,3 +20,5 @@ See 'PotentiometerOutputTracker.ino' for full code.
 
 ## Circuit 
 See 'Potentiometer output calculator.png' for the diagram.
+
+*Future update:* I’ll add photos and video of the physical build once I assemble it.
