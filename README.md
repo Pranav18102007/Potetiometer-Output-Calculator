@@ -17,3 +17,6 @@ For example: For 1V → 1 led will glow, similarly for 5V → 5 leds will glow.
 
 ## Code
 See 'PotentiometerOutputTracker.ino' for full code.
+
+## Circuit 
+See 'Potentiometer output calculator.png' for the diagram.
