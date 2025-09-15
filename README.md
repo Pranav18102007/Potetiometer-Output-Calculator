@@ -4,8 +4,11 @@ I built & tested it on a simulator (Tinkercad).
 
 ## Components:
 -Arduino Uno
+
 -5 LEDs
+
 -10K ohms Potentiometer
+
 -Jumper wires + Breadboard
 
 ## How It Works
